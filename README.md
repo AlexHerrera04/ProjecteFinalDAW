@@ -32,11 +32,11 @@ La app aniria dirigida per tots aquells grups d'amics que algún cop s'han propo
 
 ## Punt 3 – Mock-up del Projecte
 
-![Registre i Dashboard](mockups/mockup1.jpg)
+![Registre i Dashboard](mockups/mockup1.jpeg)
 
-![Entrenament](mockups/mockup2.jpg)
+![Entrenament](mockups/mockup2.jpeg)
 
-![Social](mockups/mockup3.jpg)
+![Social](mockups/mockup3.jpeg)
 
 
 
